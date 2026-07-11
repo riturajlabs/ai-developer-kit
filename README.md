@@ -1,6 +1,40 @@
 # AI Developer Kit
 
-A comprehensive toolkit for AI-assisted development with curated prompts, skills, and workflows.
+A professional toolkit for AI-assisted software development.
+
+## Purpose
+
+This repository contains reusable resources for building software and AI projects using modern development workflows.
+
+## What's Included
+
+- GitHub Copilot Configuration
+- AI Prompt Library
+- RAG Templates
+- Python Templates
+- MERN Templates
+- Documentation Templates
+- Development Workflows
+- Architecture Templates
+- Best Practices
+- Learning Notes
+
+## Tech Stack
+
+- Python
+- JavaScript
+- React
+- Node.js
+- PostgreSQL
+- MongoDB
+- LangChain
+- LangGraph
+- ChromaDB
+- FAISS
+- Hugging Face
+- GitHub Copilot
+- Gemini
+- ChatGPT
 
 ## Structure
 
@@ -25,4 +59,5 @@ A comprehensive toolkit for AI-assisted development with curated prompts, skills
 Custom Copilot instructions are available in [.github/copilot-instructions.md](.github/copilot-instructions.md).
 
 
-**Author:** Ritu Raj
+## Author
+Ritu Raj
